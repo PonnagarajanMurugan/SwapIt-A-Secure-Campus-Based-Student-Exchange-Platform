@@ -42,20 +42,22 @@ SwapIt is a protected and easy-to-use online trading platform built specifically
 # System Architecture
 
 System Architecture Diagram – SwapIt
+<img width="1536" height="1024" alt="519666090-27fcb0ee-05e4-4ca5-95c3-76a2af246a72" src="https://github.com/user-attachments/assets/045d2437-96a0-40e7-bdaf-f3c2cf2707f7" />
 
 # Outputs
 
 Output 1 – Login and User Verification Screen
-Screenshot 2025-11-26 214556
+![WhatsApp Image 2026-02-04 at 8 54 52 PM](https://github.com/user-attachments/assets/de7a1af7-47d7-4f07-9ec8-a271cdffc1c9)
 
 Output 2 – Marketplace Dashboard
-home ot
+![WhatsApp Image 2026-02-04 at 8 54 58 PM](https://github.com/user-attachments/assets/7d2f7602-5b3f-4df2-bcbb-1cd6fdaad3c5)
 
 Output 3 – Add Item Listing Page
-image
+<img width="1894" height="865" alt="530537196-c3f1e09a-f824-4a29-953f-8a4d55e76802" src="https://github.com/user-attachments/assets/055d2ac6-ce1f-4d43-b8d0-4b70e45d465f" />
+
 
 Output 4 – Active Listings View
-image
+<img width="1919" height="868" alt="530537269-0e6ac5a9-eb3b-48e3-ade5-41bd41a9eecf" src="https://github.com/user-attachments/assets/db7e7bac-82e5-46c8-b507-8bab10401253" />
 
 
 
@@ -71,8 +73,8 @@ The project improves access to low-cost resources, encourages reuse of products,
 
 # References
 
-Bingjie, H., Mengyao, R., Zhuo, X., Danni, L., & Wenjing, L. (2023). Study on market behavior of campus second-hand trading platforms in the green economy era. Research Publish Journals.
+1.Bingjie, H., Mengyao, R., Zhuo, X., Danni, L., & Wenjing, L. (2023). Study on market behavior of campus second-hand trading platforms in the green economy era. Research Publish Journals.
 
-Yuan, J., Zhang, Y., & Wang, Y. (2024). Design and development of a campus second-hand trading system using WeChat mini programs. Clausius Press.
+2.Yuan, J., Zhang, Y., & Wang, Y. (2024). Design and development of a campus second-hand trading system using WeChat mini programs. Clausius Press.
 
-Ismail, M. F., Aziz, M. A., & Nor, F. N. S. M. (2020). Online student marketplace platform for university communities. ResearchGate.
+3.Ismail, M. F., Aziz, M. A., & Nor, F. N. S. M. (2020). Online student marketplace platform for university communities. ResearchGate.
